@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+Welcome to my blog
 ---
 One of my hobbies currently is studying for the CRISC (Certified in Risk and Information Systems Control) certification exam.
 The CRISC certification is designed for IT professionals, auditors, and risk management professionals who want to demonstrate their expertise in IT risk management and control.
