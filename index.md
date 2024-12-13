@@ -1,4 +1,3 @@
----
 Welcome to my blog
 ---
 One of my hobbies currently is studying for the CRISC (Certified in Risk and Information Systems Control) certification exam.
