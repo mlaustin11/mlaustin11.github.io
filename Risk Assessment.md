@@ -1,4 +1,3 @@
----
 Risk Assessment: Analyzing and evaluating IT risk
 ---
 The risk assessment area involves analyzing and evaluating IT risk to determine the likelihood and potential impact of identified risks. This includes:
