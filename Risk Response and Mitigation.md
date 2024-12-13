@@ -1,6 +1,6 @@
 Risk Response and Mitigation: Implementing controls to mitigate IT risk
 ---
-TThe Risk Response and Mitigation area involves developing and implementing plans to mitigate or manage identified risks. This includes selecting the most appropriate risk treatment options, implementing controls and countermeasures, and continuously monitoring and reviewing the effectiveness of risk mitigation plans and controls.
+The Risk Response and Mitigation area involves developing and implementing plans to mitigate or manage identified risks. This includes selecting the most appropriate risk treatment options, implementing controls and countermeasures, and continuously monitoring and reviewing the effectiveness of risk mitigation plans and controls.
 
 Key Components:
 
