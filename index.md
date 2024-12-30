@@ -11,8 +11,6 @@ The Four Areas of Focus are:
 3. Risk Response and Mitigation: Implementing controls to mitigate IT risk
 4. Risk and Control Monitoring and Reporting: Monitoring and reporting on IT risk and controls
 
-#!/bin/bash
-
 # Fetch the latest commit message
 LATEST_COMMIT=$(git log -1 --format=%s)
 
