@@ -10,18 +10,3 @@ The Four Areas of Focus are:
 2. Risk Assessment: Analyzing and evaluating IT risk
 3. Risk Response and Mitigation: Implementing controls to mitigate IT risk
 4. Risk and Control Monitoring and Reporting: Monitoring and reporting on IT risk and controls
-
-bash
-#!/bin/bash
-
-# Fetch the latest commit message
-LATEST_COMMIT=$(git log -1 --format=%s)
-
-# Parse the commit message (e.g., extract the commit hash and author)
-COMMIT_HASH=$(git log -1 --format=%H)
-AUTHOR=$(git log -1 --format=%an)
-
-# Append the commit message to the README.md file
-echo "### Latest Commit: $LATEST_COMMIT" >> README.md
-echo "#### Commit Hash: $COMMIT_HASH" >> README.md
-echo "#### Author: $AUTHOR" >> README.md
